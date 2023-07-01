@@ -1,0 +1,4 @@
+#Mon Jun 26 08:16:29 CEST 2023
+base.0=C\:\\Users\\matteo.moisant\\AndroidStudioProjects\\AppMobileSae\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
